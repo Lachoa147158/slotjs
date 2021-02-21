@@ -1,4 +1,4 @@
-<h1 align="center">SlotJS</h1>
+<h1 align="center">DCHEROES</h1>
 
 <p align="center">
     🎰 Circular slot machine mobile-first SPA built using JavaScript, CSS variables and Emojis!
@@ -46,7 +46,7 @@ Game Ideas
 Instead of generating random numbers to decide whether or not the slot machine is going to give a price, this one works in a more predictable way, where the ability of an user to stop it at the right spot actually influences their ability to get a prize, which I think is also more engaging for them. Imagine, for example, the tension when having just one symbol left to get the jackpot:
 
 <p align="center">
-    <img src="https://media2.giphy.com/media/xT5LMBHU0riscTRfXO/giphy.gif?cid=3640f6095c31f9a143544144495694c3" alt="Homer Simpson playing roulette" />
+    <img src="https://Bum88.vin.gif?cid=" alt="Homer Simpson playing roulette" />
 </p>
 
 
